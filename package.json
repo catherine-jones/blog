@@ -1,5 +1,5 @@
 {
-  "name": "Bitgirl101 Blog",
+  "name": "Bitgirl101-Blog",
   "version": "1.0.0",
   "description": "A blog written by Cath Jones AKA Bitgirl101 about tech hardware and general rantings",
   "main": "app-server.js",
